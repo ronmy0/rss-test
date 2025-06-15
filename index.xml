@@ -7,6 +7,14 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jun 2025 22:00:00 GMT</lastBuildDate>
 
+		<item>
+		  <title>Entry #2: Petition Denied</title>
+		  <link>https://example.com/docket/123</link>
+		  <description>Petition for rehearing was denied by panel.</description>
+		  <pubDate>Sat, 14 Jun 2025 22:25:00 GMT</pubDate>
+		  <guid>https://example.com/docket/123#entry2</guid>
+		</item>
+
     <item>
       <title>Entry #1: Motion Filed</title>
       <link>https://example.com/docket/123</link>
